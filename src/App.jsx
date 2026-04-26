@@ -1164,4 +1164,3 @@ export default function SaludIntegralV8() {
   )}
   </div>
   );
-}
